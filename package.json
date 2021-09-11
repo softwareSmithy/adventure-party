@@ -7,9 +7,6 @@
     "compile": "hardhat compile",
     "test": "hardhat test",
     "deploy-party": "hardhat run --network fantom scripts/deploy.ts",
-    "display-status": "hardhat run --network fantom scripts/status.ts",
-    "run-party": "hardhat run --network fantom scripts/run.ts",
-    "schedule-party": "hardhat run --network fantom scripts/schedule.ts"
   },
   "keywords": [],
   "author": "",
